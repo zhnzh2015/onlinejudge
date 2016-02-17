@@ -1,0 +1,9 @@
+log/*
+home/runner/0/*
+home/runner/1/*
+home/runner/2/*
+home/runner/3/*
+
+make/*
+!make/Makefile
+
